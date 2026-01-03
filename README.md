@@ -1,8 +1,11 @@
 # JAVA-TODO-APP
+
 Java todo list program
 <br>
 Java ToDo Program
-
+<br>
+AUTHOR : VEER SINGH
+<br>
 Add task
 View task  
 Remove task
